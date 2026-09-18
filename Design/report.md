@@ -1,6 +1,7 @@
 # Milestone 1: Data Ingestion System (Cloud Pub/Sub)
 
 ## GitHub Link
+Link: https://github.com/CrisH2307/ENGR-5520G-001-milestone
 Scripts used in the SmartMeter part: in Root
 
 
